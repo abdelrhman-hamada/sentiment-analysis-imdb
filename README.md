@@ -29,7 +29,8 @@ The goal is to compare the performance of traditional ML models with an LSTM neu
 
 This chart shows the accuracy comparison between the models:
 
-![Model Comparison]('Output/model compersion final.png')
+![Model Comparison](Output/model_comparison_final.png)
+
 
 ---
 
