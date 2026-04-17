@@ -12,7 +12,7 @@ The goal is to compare the performance of traditional ML models with an LSTM neu
 * Logistic Regression
 * Naive Bayes
 * LSTM (Deep Learning)
-
+* LSTM (Transfer Model)
 ---
 
 ## 🔧 Techniques & Tools
@@ -38,7 +38,7 @@ This chart shows the accuracy comparison between the models:
 * Logistic Regression Accuracy: 89.0
 * Naive Bayes Accuracy: 85.9
 * LSTM Accuracy: 87.1
-
+* BERT: 90.0% (Best Performance)
 ---
 
 ## 🧠 Key Learnings
@@ -47,7 +47,10 @@ This chart shows the accuracy comparison between the models:
 * Importance of text preprocessing
 * Effect of handling negations on model performance
 * Comparing TF-IDF vs sequence-based models
-
+* Transformer models (BERT) outperform traditional ML and LSTM in sentiment tasks
+* Context-aware embeddings significantly improve accuracy
+* Trade-off between training cost and performance
+* Importance of fine-tuning pretrained models
 ---
 
 ## 📂 Dataset
